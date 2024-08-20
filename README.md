@@ -85,6 +85,7 @@
 - 1 首先有一轮急速的趋势  必须让人都感觉到趋势来了。
 - 2 回调要简单明了  不能有过多横向重叠K线 容易形成压力
 - 3 不能是运行很久的没有回调的趋势 这种容易迎来长时间复杂回调。
+<img width="960" alt="1" src="https://github.com/user-attachments/assets/83309114-ab3f-4abe-a1b9-d920d613bd5f">
 
 
 ---
