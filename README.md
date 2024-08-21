@@ -22,13 +22,13 @@
 ![image](https://github.com/user-attachments/assets/b9b505d2-a9d1-423f-8e9a-c5b4b93247a0)
 
 
-### 高级趋势技术分析 价格行为交易系统之趋势分析(高清).pdf
+### 高级趋势技术分析 价格行为交易系统之趋势分析(高清).pdf 【下载↓】
 https://pan.baidu.com/s/1P63guQT0CQgM_ybLTspnUw
 
-### 高级趋势技术分析 价格行为交易系统之区间分析(高清).pdf
+### 高级趋势技术分析 价格行为交易系统之区间分析(高清).pdf 【下载↓】
 https://pan.baidu.com/s/1zw0ALrfaMfiEPWSA_H3IRQ
 
-### 高级趋势技术分析 价格行为交易系统之反转篇 
+### 高级趋势技术分析 价格行为交易系统之反转篇  【在线阅读↓】
 http://www.doc88.com/p-6478782603405.html
 
 ---
