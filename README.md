@@ -4,7 +4,7 @@
 
 ## 关键要点：
 
-### 重要的是构建长期具有正期望的 能盈利的交易系统
+### 重要的是构建长期具有正期望的 能持续稳定盈利的交易系统
 
 ### 能稳定盈利核心在于 胜率 和盈亏比组合 和 不折不扣的执行
 
@@ -13,6 +13,22 @@
 
 
 ![image](https://github.com/user-attachments/assets/8ebf9e26-5f24-460a-b014-8135c35d5547)
+
+### 更多价格行为书籍参考
+
+
+![image]([https://github.com/user-attachments/assets/8ebf9e26-5f24-460a-b014-8135c35d5547](https://github.com/user-attachments/assets/b9b505d2-a9d1-423f-8e9a-c5b4b93247a0))
+
+
+
+### 高级趋势技术分析 价格行为交易系统之趋势分析(高清).pdf
+https://pan.baidu.com/s/1P63guQT0CQgM_ybLTspnUw
+
+### 高级趋势技术分析 价格行为交易系统之区间分析(高清).pdf
+https://pan.baidu.com/s/1zw0ALrfaMfiEPWSA_H3IRQ
+
+### 高级趋势技术分析 价格行为交易系统之反转篇 
+http://www.doc88.com/p-6478782603405.html
 
 ---
 
