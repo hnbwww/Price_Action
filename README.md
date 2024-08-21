@@ -137,7 +137,28 @@
 
 ![image](https://github.com/user-attachments/assets/4c978282-d9d5-4bff-a1db-f67c5480460d)
 
+### 两段式回调
 
+![image](https://github.com/user-attachments/assets/a48dd577-5b06-467f-93de-ccdbfe8fe25f)
+
+以上回调后 本应延续的趋势 能量衰竭  没有延续趋势。然后继续复杂回调 或者 反转了。
+
+![image](https://github.com/user-attachments/assets/8c92cae2-dc85-4d6e-bfd5-cd10404d6da6)
+
+![image](https://github.com/user-attachments/assets/2fa0c38c-52f2-45e0-9603-17832f11a46d)
+
+![image](https://github.com/user-attachments/assets/8163d27c-e8a7-44cc-9539-ed38d694401e)
+
+### 上涨楔形 容易 跌破。
+
+![image](https://github.com/user-attachments/assets/77871b78-b225-4796-ae93-38ff5fd4f488)
+
+下跌趋势中  对下跌通道  通道线的下破 容易造成下跌的过度  把下跌能量耗尽  后期形成 深幅度的上涨回调。
+
+
+### 牛熊旗的突破。 
+- **向下的通道 价格倾向于 向上突破。**
+- **向上的通道 价格倾向于 向下突破。**
 
 ---
 
@@ -145,11 +166,16 @@
 
 这段关于价格行为交易的视频内容非常详细，主要讲解了如何在实际交易中识别和交易不同的形态，特别是楔形回调形态。视频中强调了在市场走势尚未完全明朗之前，如何根据市场的实时表现进行决策，并讨论了不同交易者在处理形态时可能采用的策略。
 
+![image](https://github.com/user-attachments/assets/a70112e5-ef83-412a-97ce-154c67512e27)
+
+
 ## 关键要点：
 
 ### 市场形态的动态性
 - 在市场运动过程中，形态是不断变化的，直到形态最终形成之前，很难准确判断市场到底在做什么结构。
 - 交易者必须根据当下的市场状态和趋势背景做出决策，而不是依赖事后的形态分析。
+
+
 
 ### 不同的交易风格
 - **激进的交易者**：倾向于在通道线或趋势线附近挂单入场。这种方法可以获得较高的盈亏比，但需要承担较大的市场不确定性和潜在的假突破风险。
@@ -169,6 +195,7 @@
 
 
 # 第6课
+复杂回调
 
 ## 核心观点：
 ### 趋势延续、潜在交易区间与反转的判定
