@@ -17,8 +17,7 @@
 ### 更多价格行为书籍参考
 
 
-![image]([https://github.com/user-attachments/assets/8ebf9e26-5f24-460a-b014-8135c35d5547](https://github.com/user-attachments/assets/b9b505d2-a9d1-423f-8e9a-c5b4b93247a0))
-
+![image](https://github.com/user-attachments/assets/b9b505d2-a9d1-423f-8e9a-c5b4b93247a0)
 
 
 ### 高级趋势技术分析 价格行为交易系统之趋势分析(高清).pdf
