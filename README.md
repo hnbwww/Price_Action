@@ -13,6 +13,9 @@
 
 ### 技术分析能让我们在模糊的市场中 寻找转瞬即逝的优势，为我们找到长期有正期望的盈利法宝： 胜率和盈亏比的组合。
 
+视频课程
+
+https://www.youtube.com/watch?v=-KdWt8VPjwI&list=PL7WPLNsdMyYeE84KVcxKJjtoxqKZnW2kb&index=2
 
 
 ![image](https://github.com/user-attachments/assets/8ebf9e26-5f24-460a-b014-8135c35d5547)
